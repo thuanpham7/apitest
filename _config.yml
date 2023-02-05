@@ -1,2 +1,3 @@
 # apitest
-theme: Midnight
+mardown: kramdown
+remote_theme: benbalter/retlab
